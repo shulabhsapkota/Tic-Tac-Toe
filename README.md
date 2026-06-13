@@ -36,3 +36,11 @@ tic-tac-toe/
 * Score tracking
 * Single-player mode (AI)
 * Better animations and effects
+
+## Screenshots
+
+Here is the game in action:
+
+![Initial Game Board](tic1.png)
+
+![Winning State](tic2.png)   
